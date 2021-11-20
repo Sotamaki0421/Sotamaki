@@ -1,3 +1,3 @@
 # Hello! I'm Sotamaki.
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Sotamaki0421)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sotamaki0421)](https://github.com/anuraghazra/github-readme-stats)
